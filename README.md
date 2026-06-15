@@ -152,7 +152,7 @@ building:
 
 exploring:
   - Threat intelligence and OSINT correlation
-  - Malware analysis and reverse engineering basics
+  - Red and Blue team
   - Traffic analysis and network forensics
 
 open_to:
